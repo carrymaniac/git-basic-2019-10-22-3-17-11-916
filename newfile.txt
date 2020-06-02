@@ -1,3 +1,8 @@
 some contents
 update by local
 update by github
+
+answer for  for What is the difference between add, commit, and push?
+- add 将工作区中发生的变化提交到暂存区
+- commit 将暂存区的内容添加到本地仓库
+- psuh 将本地版本的代码推送到远程服务器
